@@ -56,7 +56,7 @@ python sql_injection_ttester.py
 Output:
 
 ```sh
-Enter the URL (e.g., http://127.0.0.1/SQL/sqli-labs-master/Less-1/index.php?id=): http://127.0.0.1/SQL/sqli-labs-master/Less-1/index.php?id=
+Enter the URL :
 Testing http://127.0.0.1/SQL/sqli-labs-master/Less-1/index.php?id=
 Injectable MySQL detected
 ```
