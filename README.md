@@ -44,7 +44,7 @@ python sql_injection_tester.py
 When prompted, enter the target URL. For example:
 
 ```sh
-Enter the URL (e.g., http://127.0.0.1/SQL/sqli-labs-master/Less-1/index.php?id=): http://127.0.0.1/SQL/sqli-labs-master/Less-1/index.php?id=
+Enter the URL :
 ```
 
 ### Example
